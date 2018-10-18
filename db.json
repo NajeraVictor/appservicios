@@ -1,8 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
-      "title": "hello"
+      "code": "1.2.4"
     }
   ],
   "profile": {
